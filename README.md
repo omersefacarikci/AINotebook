@@ -1,8 +1,6 @@
-# Deep Learning & Neural Networks
-
-Bu repo, derin öğrenme ve yapay zekâ alanındaki temel kavramları detaylı şekilde açıklamaktadır. Aşağıdaki başlıklarda, teorik bilgiler, kullanım alanları, avantajlar ve şema bağlantılarıyla birlikte açıklamalar bulabilirsiniz.
-
----
+<p align="center">
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/llmbannerim.gif" alt="Banner" />
+</p>
 
 ## 📌 İçindekiler
 - [Deep Learning](#deep-learning)
