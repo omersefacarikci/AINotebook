@@ -12,8 +12,10 @@
 
 <details>
 <summary><h2 id="deep-learning">🔹 Deep Learning</h2></summary>
-
-<img src="https://github.com/omersefacarikci/AINotebook/blob/main/dl.jpg" alt="Deep Learning" />
+<p align="center">
+  <img src="https://github.com/omersefacarikci/AINotebook/blob/main/dl.jpg" alt="Deep Learning" />
+</p>
+  
 **Deep Learning (Derin Öğrenme)**, yapay zekânın bir alt alanıdır ve çok katmanlı yapay sinir ağları (deep neural networks) kullanarak büyük miktarda veriden öğrenme gerçekleştirir. Geleneksel makine öğrenmesinden farkı, özellik çıkarımını (feature extraction) otomatik olarak yapabilmesidir. Bu sayede insan müdahalesine daha az ihtiyaç duyar.
 
 📌 Özellikler:
@@ -46,7 +48,10 @@
 
 <details>
 <summary><h2 id="neural-network">🔹 Neural Network</h2></summary>
-
+<p align="center">
+  <img src="https://github.com/omersefacarikci/AINotebook/blob/main/nn.png" alt="Deep Learning" />
+</p>
+  
 **Neural Network (Yapay Sinir Ağı)**, biyolojik sinir hücrelerinden (nöronlardan) esinlenmiş bir matematiksel modeldir. Yapısı katmanlardan oluşur: **Giriş katmanı**, **gizli katman(lar)** ve **çıkış katmanı**.
 
 📌 Temel Çalışma Prensibi:
@@ -66,7 +71,6 @@
 - Tıbbi teşhis sistemleri
 - Finansal tahmin modelleri
 
-📊 **Şema:** [Neural Network Şeması](linkini-buraya-koy)
 
 </details>
 
@@ -93,7 +97,6 @@
 - Öneri sistemleri
 - Otonom araçlar
 
-📊 **Şema:** [MDP Şeması](linkini-buraya-koy)
 
 </details>
 
@@ -120,13 +123,8 @@
 - Yüz tanıma
 - Medikal görüntü analizi
 
-📊 **Şema:** [CNN Şeması](linkini-buraya-koy)
 
 </details>
 
 ---
 
-## 📖 Kaynaklar
-- Ian Goodfellow, Yoshua Bengio, Aaron Courville — *Deep Learning*
-- Sutton & Barto — *Reinforcement Learning: An Introduction*
-- Stanford CS231n — *Convolutional Neural Networks for Visual Recognition*
