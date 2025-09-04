@@ -15,6 +15,7 @@ Bu repo, derin öğrenme ve yapay zekâ alanındaki temel kavramları detaylı �
 <details>
 <summary><h2 id="deep-learning">🔹 Deep Learning</h2></summary>
 
+<img src="https://github.com/omersefacarikci/AINotebook/blob/main/dl.jpg" alt="Deep Learning" />
 **Deep Learning (Derin Öğrenme)**, yapay zekânın bir alt alanıdır ve çok katmanlı yapay sinir ağları (deep neural networks) kullanarak büyük miktarda veriden öğrenme gerçekleştirir. Geleneksel makine öğrenmesinden farkı, özellik çıkarımını (feature extraction) otomatik olarak yapabilmesidir. Bu sayede insan müdahalesine daha az ihtiyaç duyar.
 
 📌 Özellikler:
@@ -32,7 +33,7 @@ Bu repo, derin öğrenme ve yapay zekâ alanındaki temel kavramları detaylı �
 - Büyük veri ve güçlü donanım ihtiyacı.
 - Yorumlanabilirlik zorluğu (black box problem).
 
-📊 **Şema:** [Deep Learning Şeması](linkini-buraya-koy)
+
 
 </details>
 
