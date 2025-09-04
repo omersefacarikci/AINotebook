@@ -31,6 +31,13 @@
 - Büyük veri ve güçlü donanım ihtiyacı.
 - Yorumlanabilirlik zorluğu (black box problem).
 
+## 📖 Kaynaklar
+- [3Blue1Brown – But what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) : Intuitive visual explanation of how neural networks work.
+- [freeCodeCamp – Deep Learning Crash Course](https://www.youtube.com/watch?v=5tvmMX8r_OM) : Covers the core concepts of deep learning in a beginner-friendly way.
+- [Fast.ai – Practical Deep Learning](https://course.fast.ai/) : Hands-on course for developers with coding experience.
+- [Patrick Loeber – PyTorch Tutorials](https://www.youtube.com/playlist?list=PL1w8k37X_6L9NWeoXQ0IDi1j8weP4YuqF) : Beginner-friendly PyTorch tutorials.
+
+---
 
 
 </details>
