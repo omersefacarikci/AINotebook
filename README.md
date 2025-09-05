@@ -79,6 +79,10 @@
 <details>
 <summary><h2 id="markov-decision-process">🔹 Markov Decision Process (MDP)</h2></summary>
 
+<p align="center">
+  <img src="https://github.com/omersefacarikci/AINotebook/blob/main/mdpimage.png" alt="Deep Learning" />
+</p>
+
 **Markov Decision Process (MDP)**, belirsizlik içeren ortamlarda karar verme problemlerini modellemek için kullanılan matematiksel bir çerçevedir. Özellikle **reinforcement learning (pekiştirmeli öğrenme)** algoritmalarının temelini oluşturur.
 
 📌 Temel Bileşenleri:
@@ -104,6 +108,10 @@
 
 <details>
 <summary><h2 id="convolutional-neural-network">🔹 Convolutional Neural Network (CNN)</h2></summary>
+
+<p align="center">
+  <img src="https://github.com/omersefacarikci/AINotebook/blob/main/cnnimage.png" alt="Deep Learning" />
+</p>
 
 **Convolutional Neural Network (CNN)**, özellikle görüntü işleme alanında yaygın olarak kullanılan bir derin öğrenme mimarisidir. İnsan beynindeki görsel korteksten esinlenilmiştir. CNN, görüntülerdeki uzamsal (spatial) ilişkileri öğrenmede çok etkilidir.
 
