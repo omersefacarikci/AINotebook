@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/llmbannerim.gif" alt="Banner" />
+  <img src="https://github.com/omersefacarikci/omersefacarikci/blob/main/img/llmbannerim.gif" alt="Banner" />
 </p>
 
 ## 📌 İçindekiler
