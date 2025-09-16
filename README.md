@@ -7,6 +7,7 @@
 - [Neural Network](#neural-network)
 - [Markov Decision Process (MDP)](#markov-decision-process)
 - [Convolutional Neural Network (CNN)](#convolutional-neural-network)
+- [Deep Q Learning](#deep-q-learning)
 
 ---
 
@@ -136,3 +137,14 @@
 
 ---
 
+<details>
+<summary><h2 id="deep-q-learning">🔹 Deep Q Learning</h2></summary>
+
+Pekiştirmeli öğrenmenin (Reinforcement Learning) bir yöntemi olan Deep Q-Learning, ajanların (yapay zeka) deneme-yanılma yoluyla çevrelerinde doğru kararlar almayı öğrenmesini sağlar. Klasik Q-Learning’de tablo tutulur, ama karmaşık durumlarda bu tabloyu derin sinir ağları tahmin eder.
+
+•	Basit Anlatım:
+Bir çocuk düşün. İlk defa Atari oynuyor. Başta hep kaybediyor, ama her denemede biraz daha öğreniyor. Zamanla hangi hareketin daha çok puan kazandırdığını keşfediyor. İşte bu süreci Deep Q-Learning yapar.
+
+
+
+</details>
